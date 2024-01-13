@@ -9,7 +9,7 @@ public class PostmanEchoTest {
         String text = "good";
         given()
                 .baseUri("https://postman-echo.com")
-                .body("bad") // отправляемые данные (заголовки и query можно выставлять аналогично)
+                .body("good") // отправляемые данные (заголовки и query можно выставлять аналогично)
 // Выполняемые действия
                 .when()
                 .post("/post")
