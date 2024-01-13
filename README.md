@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/46j4lngw7mt95hel?svg=true)](https://ci.appveyor.com/project/fdarcy/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/9kfw76qj2jgkhnkj/branch/main?svg=true)](https://ci.appveyor.com/project/fdarcy/postman/branch/main)
